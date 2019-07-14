@@ -1,3 +1,4 @@
+[English](https://main.judgelight.org/) русский язык [中文](https://main.judgelight.org/cn/)
 ## что JudgeLight
 Judgelight - некоммерческая организация по технологии Интернета.
 ## как к нам присоединиться
