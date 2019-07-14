@@ -1,4 +1,4 @@
-# JudgeLight
+English [русский язык](https://main.judgelight.org/ru/) [中文](https://main.judgelight.org/cn/)
 ## What's JudgeLight
 JudgeLight is an nonprofit organization about Internet Tech
 ## How to Join us
